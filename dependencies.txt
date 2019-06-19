@@ -1,0 +1,19 @@
+# file: dependencies.txt
+#
+# This file lists additional Debian packages that must be installed
+# prior to running your entry's 'setup.sh' and 'next.sh' scripts.
+# Each package must be on a separate line.
+
+matlab
+python3-tensorflow = 1.0.0-0~pn1 
+python3-numpy      = 1:1.12.0-2~pn0 
+python3-protobuf   = 3.2.0-0~pn1 
+libprotobuf10      = 3.2.0-0~pn1 
+python3-wheel      = 0.29.0-2 
+python3-six        = 1.10.0-3 
+libatlas3-base
+python3-sklearn=0.18-5~pn0 
+python3-sklearn-lib=0.18-5~pn0 
+python3-joblib=0.10.3+git55-g660fe5d-1 
+python3-dev
+python3-xgboost=0.6+git20160810-0~pn1
