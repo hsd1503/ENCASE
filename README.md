@@ -40,5 +40,5 @@ Please refer to the Challenge website https://physionet.org/challenge/2017/#intr
 
 ## Dataset
 
-Training data can be found at https://physionet.org/challenge/2017/#challenge-data
-Please use Revised labels (v3) at https://physionet.org/challenge/2017/REFERENCE-v3.csv
+Training data can be found at https://archive.physionet.org/challenge/2017/#challenge-data
+Please use Revised labels (v3) at https://archive.physionet.org/challenge/2017/REFERENCE-v3.csv
