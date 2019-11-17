@@ -36,7 +36,7 @@ and
 
 ## Task Description
 
-Please refer to the Challenge website https://physionet.org/challenge/2017/#introduction and Gari's paper http://www.cinc.org/archives/2017/pdf/065-469.pdf. 
+Please refer to the Challenge website https://physionet.org/challenge/2017/#introduction and Challenge description paper http://www.cinc.org/archives/2017/pdf/065-469.pdf. 
 
 ## Dataset
 
