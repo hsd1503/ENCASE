@@ -1,7 +1,8 @@
+Notice: this repo is no more updated. Recent PyTorch implementation can be found at https://github.com/hsd1503/resnet1d
+
 # ENCASE
 
 ENCASE combines deep neural networks and expert features together for AF Classification from a short single lead ECG recording. It won the First Place in the PhysioNet/Computing in Cardiology Challenge 2017 (https://physionet.org/challenge/2017), with an overall F1 score of 0.83. The original code can be downloaded from https://physionet.org/challenge/2017/sources/shenda-hong-221.zip
-
 
 Detailed description of ENCASE can be found at http://www.cinc.org/archives/2017/pdf/178-245.pdf. 
 If you find the idea useful or use this code in your own work, please cite our paper as
