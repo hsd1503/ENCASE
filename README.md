@@ -41,6 +41,8 @@ Please refer to the Challenge website https://physionet.org/challenge/2017/#intr
 
 ## Dataset
 
-Training data can be found at https://archive.physionet.org/challenge/2017/#challenge-data
-Please use Revised labels (v3) at https://archive.physionet.org/challenge/2017/REFERENCE-v3.csv
-Or you can download my preprocessed dataset challenge2017.pkl from https://drive.google.com/drive/folders/1AuPxvGoyUbKcVaFmeyt3xsqj6ucWZezf
+**Data** Training data can be found at https://archive.physionet.org/challenge/2017/#challenge-data
+
+**Label** Please use Revised labels (v3) at https://archive.physionet.org/challenge/2017/REFERENCE-v3.csv
+
+**Preprocessed** Or you can download my preprocessed dataset challenge2017.pkl from https://drive.google.com/drive/folders/1AuPxvGoyUbKcVaFmeyt3xsqj6ucWZezf
