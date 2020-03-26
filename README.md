@@ -1,4 +1,6 @@
-Notice: this repo is no more updated. Recent PyTorch implementation can be found at https://github.com/hsd1503/resnet1d
+Notice: this repo is no more updated. 
+- Extraction of expert features can be found at https://github.com/hsd1503/ENCASE/tree/master/code/featrues_*.py
+- Recent PyTorch implementation of a collection of deep models on 1d signal data can be found at https://github.com/hsd1503/resnet1d 
 
 # ENCASE
 
